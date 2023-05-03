@@ -1,8 +1,8 @@
-[![MasterHead](https://i.imgur.com/YdzBa0R.png)](github.com/eduartico)
+<!--- [![MasterHead](https://i.imgur.com/YdzBa0R.png)](github.com/eduartico)--->
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduartico)](https://github.com/eduartico/github-readme-stats) //html?????--->
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduartico&exclude_repo=eduartico)](https://github.com/eduartico/github-readme-stats)--->
-Hello there! I am Eduardo, a 20 year old brazilian studying Computer Science & Engineering at Universidade do Porto. I am into coding, graphic design and gaming. Had a bit of experience running my own instagram (/designduarte_), a̶l̶m̶o̶s̶t launch my final paper as a real app and had a blast on both :), also I was at a business administration technical course alongside my three years of HS. I am hoping to learn much more in the following years! 
+Hello there! I am Eduardo, a 21 year old brazilian studying Computer Science & Engineering at Universidade do Porto. I am into coding, graphic design and gaming. Had a bit of experience running my own instagram (/designduarte_). I also finsihed a business administration technical course alongside my three years of High School. I am hoping to learn much more in the following years! 
  
 
 <h3 align="left">Find me here:</h3>
