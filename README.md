@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **duarte.eduardoeds@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Eduartico/eduartico/blob/main/Curriculo.png](https://github.com/Eduartico/eduartico/blob/main/Curriculo.png)
+- 📄 Know about my experiences [here!](https://github.com/Eduartico/eduartico/blob/main/Curriculo.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
