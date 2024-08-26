@@ -1,6 +1,6 @@
 <!--- [![MasterHead](https://i.imgur.com/YdzBa0R.png)](github.com/eduartico)--->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=50&duration=3500&pause=500&color=E6EDF3&center=true&vCenter=true&repeat=false&width=1080&height=51&lines=Hello+there!+;I'm+Eduardo+Duarte)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=50&duration=3500&pause=500&color=E6EDF3&center=true&vCenter=true&repeat=false&width=1080&height=51&lines=Hello+there!+;I'm+Eduardo+Duarte)](https://github.com/Eduartico)
 <!--- <h1 align="center">Hello there <img src="https://emoji.discadia.com/emojis/f27bf3fd-3f2f-4711-ace1-84f272af31df.GIF" alt="azure" width="40" height="40"/>, I'm Eduardo Duarte</h1> --->
 <h3 align="center">A brazilian developer currently living in Portugal</h3>
 
