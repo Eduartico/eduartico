@@ -29,7 +29,7 @@
     <tr>
         <td>
             <a href="https://github.com/eduartico/github-readme-stats">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduartico&exclude_repo=eduartico&hide=html,jupyter%20notebook,java,blade,javascript,php,glsl,plpgsql,css" alt="Top Langs" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduartico&exclude_repo=eduartico&hide=html,jupyter%20notebook,blade,javascript,glsl,plpgsql,css" alt="Top Langs" />
             </a>
         </td>
         <td>
