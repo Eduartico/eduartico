@@ -4,7 +4,7 @@
 <!--- <h1 align="center">Hello there <img src="https://emoji.discadia.com/emojis/f27bf3fd-3f2f-4711-ace1-84f272af31df.GIF" alt="azure" width="40" height="40"/>, I'm Eduardo Duarte</h1> --->
 <h3 align="center">A brazilian developer currently living in Portugal</h3>
 
-- 🔭 I’m currently working as a Junior Programmer at [ARMIS](https://armis.pt)
+- 🔭 I’m currently working as Software Engineer at [ARMIS](https://armis.pt)
 
 - 📝 I’m taking a Master's in Informatics and Computer Engineering at [FEUP](https://sigarra.up.pt/feup/en/web_page.inicial)
 
@@ -17,7 +17,6 @@
 <a href="https://linkedin.com/in/eduartico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduartico" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22921685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22921685" height="30" width="40" /></a>
 <a href="https://instagram.com/eduartico_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eduartico_" height="30" width="40" /></a>
-<a href="https://www.behance.net/duarte_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="duarte_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
